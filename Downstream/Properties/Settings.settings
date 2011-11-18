@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Downstream.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="bool_Relevence" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="bool_Duplicates" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="int_SearchLimit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="tw_cSec" Type="System.String" Scope="User">
+      <Value Profile="(Default)">REPLACE_WITH_YOUR_KEY</Value>
+    </Setting>
+    <Setting Name="tw_cKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">REPLACE_WITH_YOUR_KEY</Value>
+    </Setting>
+    <Setting Name="TwitterOAuthToken" Type="Twitterizer.OAuthTokens" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="tw_sn" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="str_PostStyle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Simple</Value>
+    </Setting>
+    <Setting Name="fb_AppKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">REPLACE_WITH_YOUR_KEY</Value>
+    </Setting>
+    <Setting Name="fb_AppSec" Type="System.String" Scope="User">
+      <Value Profile="(Default)">REPLACE_WITH_YOUR_KEY</Value>
+    </Setting>
+    <Setting Name="fb_AccToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="fb_sn" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="defaultSaveLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="dontShowHelp" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
