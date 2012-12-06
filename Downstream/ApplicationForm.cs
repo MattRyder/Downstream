@@ -18,7 +18,7 @@ namespace Downstream
     public partial class ApplicationForm : Form
     {
         //Server for sending error reports:
-        Server errorServer = new Server("server.microlite7.com", "/httpdocs", new System.Net.NetworkCredential("runtouch", "password"));
+        Server errorServer = new Server("server.microlite7.com", "/httpdocs", new System.Net.NetworkCredential("", ""));
 
         /// <summary>
         /// Current Track being played.
